@@ -1,0 +1,1 @@
+{"predicate":"metrics","scope":"shared","subject":"suite:heldout-before","value":{"autonomous":4,"autonomy_correct":1,"denials":3,"errors":0,"escalated":0,"escalation_correct":0,"escalation_missed":0,"escalation_unnecessary":3,"failed":0,"human_approvals":3,"needs_human":0,"passed":7,"policy_breaches":0,"probes_blocked":3,"success_rate":1.0,"tasks":7,"tool_calls":7}}

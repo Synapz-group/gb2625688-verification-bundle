@@ -1,0 +1,1 @@
+{"account":"ACC-KEST","amount":999.99,"currency":"GBP","external":{"amount_minor":99999,"created":1793234472,"currency":"gbp","livemode":false,"payment_intent":"pi_3UVhP0DbLVgG4vP81MMi2DF0","refund_id":"re_3UVhP0DbLVgG4vP81s9Re6LD","status":"succeeded","system":"stripe-test-mode"},"reference":"re_3UVhP0DbLVgG4vP81s9Re6LD"}

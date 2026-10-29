@@ -1,0 +1,1 @@
+{"account":"ACC-H1","amount":55,"currency":"GBP","external":{"amount_minor":5500,"created":1793234441,"currency":"gbp","livemode":false,"payment_intent":"pi_3UVhOWDbLVgG4vP80gTMz8Mx","refund_id":"re_3UVhOWDbLVgG4vP80hZ4tpAH","status":"succeeded","system":"stripe-test-mode"},"reference":"re_3UVhOWDbLVgG4vP80hZ4tpAH"}

@@ -1,0 +1,1 @@
+{"args":{"query":{"dataset":"invoices","field":"amount","record_id":3056,"rule":"range"},"skill_id":"data.quarantine_bad_record"},"tool_id":"skill_propose@1"}

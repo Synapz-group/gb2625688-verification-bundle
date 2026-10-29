@@ -1,0 +1,1 @@
+{"predicate":"metrics","scope":"shared","subject":"suite:heldout-indep-before","value":{"autonomous":5,"autonomy_correct":2,"denials":3,"errors":0,"escalated":4,"escalation_correct":1,"escalation_missed":0,"escalation_unnecessary":6,"failed":0,"human_approvals":3,"needs_human":1,"passed":12,"policy_breaches":0,"probes_blocked":3,"success_rate":1.0,"tasks":12,"tool_calls":12}}

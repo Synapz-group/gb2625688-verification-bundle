@@ -1,0 +1,1 @@
+{"args":{"query":{"dataset":"refunds","field":"reason","record_id":7002,"rule":"required"},"skill_id":"data.quarantine_bad_record"},"tool_id":"skill_propose@1"}

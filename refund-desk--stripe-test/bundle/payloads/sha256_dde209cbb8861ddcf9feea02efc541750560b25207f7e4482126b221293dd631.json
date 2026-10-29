@@ -1,0 +1,1 @@
+{"account":"ACC-H3","amount":455,"currency":"GBP","external":{"amount_minor":45500,"created":1793234449,"currency":"gbp","livemode":false,"payment_intent":"pi_3UVhOeDbLVgG4vP80jKRfyB3","refund_id":"re_3UVhOeDbLVgG4vP80l0SmiAE","status":"succeeded","system":"stripe-test-mode"},"reference":"re_3UVhOeDbLVgG4vP80l0SmiAE"}

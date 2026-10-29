@@ -1,0 +1,1 @@
+{"predicate":"metrics","scope":"shared","subject":"suite:c1-before","value":{"autonomous":6,"autonomy_correct":0,"denials":3,"errors":0,"escalated":0,"escalation_correct":0,"escalation_missed":0,"escalation_unnecessary":6,"failed":0,"human_approvals":6,"needs_human":0,"passed":9,"policy_breaches":0,"probes_blocked":3,"success_rate":1.0,"tasks":9,"tool_calls":21}}

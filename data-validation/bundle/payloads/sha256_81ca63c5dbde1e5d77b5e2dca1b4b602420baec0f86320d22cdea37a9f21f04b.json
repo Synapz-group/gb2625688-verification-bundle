@@ -1,0 +1,1 @@
+{"args":{"query":{"dataset":"shipments","field":"weight","record_id":5120,"rule":"range"},"skill_id":"data.quarantine_bad_record"},"tool_id":"skill_propose@1"}

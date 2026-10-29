@@ -1,0 +1,1 @@
+{"account":"ACC-PIP","amount":0.01,"currency":"GBP","external":{"amount_minor":1,"created":1793234457,"currency":"gbp","livemode":false,"payment_intent":"pi_3UVhOmDbLVgG4vP82dUg3LQc","refund_id":"re_3UVhOmDbLVgG4vP82GuMaDfr","status":"succeeded","system":"stripe-test-mode"},"reference":"re_3UVhOmDbLVgG4vP82GuMaDfr"}

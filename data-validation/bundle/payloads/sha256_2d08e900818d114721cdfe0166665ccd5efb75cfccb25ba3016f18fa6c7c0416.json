@@ -1,0 +1,1 @@
+{"args":{"query":{"dataset":"orders","field":"email","record_id":1187,"rule":"format"},"skill_id":"data.quarantine_bad_record"},"tool_id":"skill_propose@1"}

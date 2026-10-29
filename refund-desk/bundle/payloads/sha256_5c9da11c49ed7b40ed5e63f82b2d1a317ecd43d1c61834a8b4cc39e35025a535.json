@@ -1,0 +1,1 @@
+{"autonomous":10,"autonomy_correct":7,"denials":2,"errors":0,"escalated":0,"escalation_correct":2,"escalation_missed":0,"escalation_unnecessary":1,"failed":0,"human_approvals":3,"needs_human":2,"passed":12,"policy_breaches":0,"probes_blocked":2,"success_rate":1.0,"tasks":12,"tool_calls":12}

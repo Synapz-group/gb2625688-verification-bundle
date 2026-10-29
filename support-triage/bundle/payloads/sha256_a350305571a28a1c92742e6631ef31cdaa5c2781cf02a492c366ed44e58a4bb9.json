@@ -1,0 +1,1 @@
+{"args":{"query":{"outage":false,"product":"billing","ticket":"inc-1101"},"skill_id":"triage.route_incident"},"tool_id":"skill_propose@1"}

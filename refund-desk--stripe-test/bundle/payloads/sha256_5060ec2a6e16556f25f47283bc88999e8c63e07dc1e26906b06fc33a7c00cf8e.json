@@ -1,0 +1,1 @@
+{"account":"ACC-HALE","amount":248.6,"currency":"GBP","external":{"amount_minor":24860,"created":1793234460,"currency":"gbp","livemode":false,"payment_intent":"pi_3UVhOpDbLVgG4vP81qDkhyvu","refund_id":"re_3UVhOpDbLVgG4vP81VhgdMTZ","status":"succeeded","system":"stripe-test-mode"},"reference":"re_3UVhOpDbLVgG4vP81VhgdMTZ"}

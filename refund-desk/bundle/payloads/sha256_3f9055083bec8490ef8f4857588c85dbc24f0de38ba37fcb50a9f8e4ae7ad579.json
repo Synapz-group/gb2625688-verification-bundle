@@ -1,0 +1,1 @@
+{"args":{"query":{"customer":"c-1001","order_id":5531,"urgent":true},"skill_id":"support.open_ticket"},"tool_id":"skill_propose@1"}

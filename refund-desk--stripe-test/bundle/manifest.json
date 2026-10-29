@@ -1,0 +1,35 @@
+{
+  "extra": {},
+  "files": {
+    "ledger.jsonl": "94542c2b1a4b25980373ec544c246b2c06e1a95798b048093c4229fcc937d615",
+    "memory.jsonl": "f062707267bc5e08fbdc8c6c2e07331d21bc0320caf046c4ab5ba81cdaa79526",
+    "policy_initial.json": "792daa29c212fc145bc109b42a24b5c974bca1c2444b0844e5fe811e65ba311c"
+  },
+  "final_policy_digest": "sha256:42c7d1bef3b040c0037992a2c56279e840ee6aaa7d091565e7379bf874eb2f05",
+  "final_policy_version": 4,
+  "format": "synapz-improvement-bundle/1",
+  "initial_policy_digest": "sha256:792daa29c212fc145bc109b42a24b5c974bca1c2444b0844e5fe811e65ba311c",
+  "ledger_entries": 182,
+  "ledger_head": "sha256:8fdc203139ab649b901fa7c9c42ff6fb3a91fc8b89b5316aa9b4aef751e5c763",
+  "memory_entries": 7,
+  "memory_head": "sha256:f98ba49a3ba19159d5ad88588591ba288fd61f86f428b6705185846757de019c",
+  "signing": {
+    "public_key": "51ad6d3eccfae04958c0248edc60ac0a818b0584dc3878d6bfe4776d2ec8f81a",
+    "scheme": "ed25519",
+    "signer_id": "ed25519:0b6288c3f486c397"
+  },
+  "statement_signature": "1995668573d6f86d15ac7977b0507a0c691dcaad7349c835f03bb580d70b27f5a1cd518bea9a72564544b62c5041edac4210b1c089953d65f342561b7b500f08",
+  "tools": {
+    "crm_create_ticket@1": "crm.ticket",
+    "fx_quote@1": "fx.quote",
+    "memory_read@1": "memory.read",
+    "memory_retract@1": "memory.write",
+    "memory_write@1": "memory.write",
+    "payout@1": "payments.transfer",
+    "plan_checkpoint@1": "plan.checkpoint",
+    "policy_review@1": "policy.review",
+    "skill_propose@1": "skills.propose",
+    "suite_metrics@1": "improve.metrics",
+    "task_check@1": "improve.check"
+  }
+}

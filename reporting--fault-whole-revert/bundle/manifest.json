@@ -1,0 +1,35 @@
+{
+  "extra": {},
+  "files": {
+    "ledger.jsonl": "8c7da530a9f50117aa609ef8b2ced364475cef7a4e5e2fa25ea57e21c7f01709",
+    "memory.jsonl": "416c7e46f3706be8542c4076d682c0716abc228fe6329af5226ad05612c5662f",
+    "policy_initial.json": "4a91c9914b5fe22cef1a52ae24d33de49769bcc2db185b09b9520e1656797668"
+  },
+  "final_policy_digest": "sha256:ad4f7e94300714555d3a1ad17c272e9754a76de87d4ae750a89fc947e28c1d2a",
+  "final_policy_version": 5,
+  "format": "synapz-improvement-bundle/1",
+  "initial_policy_digest": "sha256:4a91c9914b5fe22cef1a52ae24d33de49769bcc2db185b09b9520e1656797668",
+  "ledger_entries": 109,
+  "ledger_head": "sha256:707e09deb0b9b89ea71f4e59dcc841bc84637479c5a4f7f20ab070f49666b5b1",
+  "memory_entries": 5,
+  "memory_head": "sha256:158e6e79396f2c5d1f4b761a38999ce51eb5f674dbdc9f270b9ba4fdff3c883e",
+  "signing": {
+    "public_key": "51ad6d3eccfae04958c0248edc60ac0a818b0584dc3878d6bfe4776d2ec8f81a",
+    "scheme": "ed25519",
+    "signer_id": "ed25519:0b6288c3f486c397"
+  },
+  "statement_signature": "2a02d7a964dfb8ebc43782471332cfc7cff8161c5edd87794e9edfae0a9aa7dcb43fbe8487fc0cb39467c29bead05ee0682cf753be3fbd515fa12584734b5300",
+  "tools": {
+    "fx_quote@1": "fx.quote",
+    "memory_read@1": "memory.read",
+    "memory_retract@1": "memory.write",
+    "memory_write@1": "memory.write",
+    "metrics_fetch@1": "reporting.read",
+    "plan_checkpoint@1": "plan.checkpoint",
+    "policy_review@1": "policy.review",
+    "report_publish@1": "reporting.publish",
+    "skill_propose@1": "skills.propose",
+    "suite_metrics@1": "improve.metrics",
+    "task_check@1": "improve.check"
+  }
+}

@@ -1,0 +1,1 @@
+{"account":"ACC-3902","amount":499.99,"currency":"GBP","external":{"amount_minor":49999,"created":1793234464,"currency":"gbp","livemode":false,"payment_intent":"pi_3UVhOtDbLVgG4vP80esCWjXe","refund_id":"re_3UVhOtDbLVgG4vP80UNOCf3p","status":"succeeded","system":"stripe-test-mode"},"reference":"re_3UVhOtDbLVgG4vP80UNOCf3p"}

@@ -1,0 +1,1 @@
+{"account":"ACC-VORN","amount":500.01,"currency":"GBP","external":{"amount_minor":50001,"created":1793234468,"currency":"gbp","livemode":false,"payment_intent":"pi_3UVhOwDbLVgG4vP81Ga2UFrx","refund_id":"re_3UVhOwDbLVgG4vP81XWOw8Zi","status":"succeeded","system":"stripe-test-mode"},"reference":"re_3UVhOwDbLVgG4vP81XWOw8Zi"}

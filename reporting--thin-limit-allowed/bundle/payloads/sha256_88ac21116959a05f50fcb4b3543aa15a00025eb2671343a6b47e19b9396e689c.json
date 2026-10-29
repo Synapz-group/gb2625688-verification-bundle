@@ -1,0 +1,1 @@
+{"args":{"detail":"rolled_back: denied by mined-limit-fx-quote-amount: amount above 12000","kind":"report","mode":"failed","needs_human":false,"passed":false,"suite_run":"heldout-after","task_id":"hrep3"},"tool_id":"task_check@1"}

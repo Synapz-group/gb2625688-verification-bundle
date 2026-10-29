@@ -1,0 +1,1 @@
+{"account":"ACC-H4","amount":650,"currency":"GBP","external":{"amount_minor":65000,"created":1793234453,"currency":"gbp","livemode":false,"payment_intent":"pi_3UVhOiDbLVgG4vP82aAiHYjq","refund_id":"re_3UVhOiDbLVgG4vP82Qa0A5Q4","status":"succeeded","system":"stripe-test-mode"},"reference":"re_3UVhOiDbLVgG4vP82Qa0A5Q4"}

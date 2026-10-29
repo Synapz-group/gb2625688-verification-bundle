@@ -1,0 +1,1 @@
+{"args":{"allow_relaxation":false,"decision":"reject","note":"thin evidence: mined limit backed by 6 samples < required 10","proposal_id":"sha256:5932a6d647049419d51fec6ca33d64e37ffcb9666e017cb37493aa5acc6cf671"},"tool_id":"policy_review@1"}

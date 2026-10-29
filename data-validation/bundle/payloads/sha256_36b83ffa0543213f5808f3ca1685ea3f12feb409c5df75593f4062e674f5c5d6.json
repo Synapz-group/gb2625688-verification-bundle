@@ -1,0 +1,1 @@
+{"args":{"query":{"dataset":"dock-13-pickfaces","field":"zone_code","record_id":8675309,"rule":"enum_membership"},"skill_id":"data.quarantine_bad_record"},"tool_id":"skill_propose@1"}

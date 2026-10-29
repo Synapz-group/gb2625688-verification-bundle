@@ -1,0 +1,1 @@
+{"account":"ACC-05","amount":260,"currency":"GBP","external":{"amount_minor":26000,"created":1793234493,"currency":"gbp","livemode":false,"payment_intent":"pi_3UVhPLDbLVgG4vP835ryzic0","refund_id":"re_3UVhPLDbLVgG4vP83RIp6Tod","status":"succeeded","system":"stripe-test-mode"},"reference":"re_3UVhPLDbLVgG4vP83RIp6Tod"}

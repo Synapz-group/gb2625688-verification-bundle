@@ -1,0 +1,1 @@
+{"change":{"op":"remove","spec":null,"target_spec_id":"injected-fx-cap"},"decision":"approve","direction":"relax","evidence":[],"from_version":3,"metrics":{},"miner":"manual","note":"","policy_digest":"sha256:c99511253fba85c05ab975ccaf79661eb21531a49dabca39331d22a0a0ff6f72","proposal_id":"sha256:d15bc2018f1bc5dc13daaefe8ff2ccfb7a025f9d640e66855e78f16124fe3ca6","to_version":4}
