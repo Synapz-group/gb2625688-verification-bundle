@@ -133,7 +133,7 @@ Copy a bundle, change anything, and run A or B again. The result must be NOT VER
 - delete the last ledger line and fix up the manifest;
 - remove the `signing` block.
 
-For each bundle, `RESULTS.md` section 5 lists four such attacks and the check that rejected each one.
+For each bundle, `RESULTS.md` section 9 lists four such attacks and the check that rejected each one.
 The hardest is the `rechain` attack: an attestation is rewritten and the entire hash chain rebuilt.
 Only the signatures catch it.
 

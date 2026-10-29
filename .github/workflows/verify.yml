@@ -1,0 +1,22 @@
+name: Verify bundles
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  verify:
+    name: Run verify.py --all
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Verify all bundles
+        run: |
+          python -I verify.py --all . --public-key 51ad6d3eccfae04958c0248edc60ac0a818b0584dc3878d6bfe4776d2ec8f81a
