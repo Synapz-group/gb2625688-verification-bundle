@@ -1,5 +1,7 @@
 # SYNAPZ Governed Self-Improvement — Verifiable Evidence Bundles
 
+[![Verify bundles](https://github.com/Synapz-group/gb2625688-verification-bundle/actions/workflows/verify.yml/badge.svg)](https://github.com/Synapz-group/gb2625688-verification-bundle/actions/workflows/verify.yml)
+
 **Patent:** GB2625688.3 (filed 28 October 2026)
 **Status:** Patent pending
 
